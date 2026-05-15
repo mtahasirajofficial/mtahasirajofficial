@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋 I'm Taha Siraj</h1>
+<h3 align="center">An Ambassador of CEGA Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtahasirajoffical&label=Profile%20views&color=0e75b6&style=flat" alt="mtahasirajofficial" /> </p>
+
 # 💫 About Me:
 - 🔭 I’m currently working on **Unity**<br>  <br>- 🌱 I’m currently learning **Animation** From YouTube<br><br>- 👯 I’m looking to collaborate on **Gaming Projects**<br><br>- 💬 Ask me about **Gaming, Marketing & Web Development**<br><br>- ⚡ Fun fact **Sharks have existed for over 400 million years**
 
@@ -23,5 +28,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=mtahasirajofficial&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
