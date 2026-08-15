@@ -1,34 +1,224 @@
-<h1 align="center">Hi 👋 I'm Taha Siraj</h1>
-<h3 align="center">An Ambassador of CEGA Pakistan</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Taha%20Siraj&fontSize=42&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Ambassador%20%40%20CEGA%20Pakistan%20%7C%20Game%20%26%20Web%20Developer&descAlignY=62&descSize=15&descAlign=50" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtahasirajoffical&label=Profile%20views&color=0e75b6&style=flat" alt="mtahasirajofficial" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Working+with+Unity+%F0%9F%8E%AE;Ambassador+%40+CEGA+Pakistan+%F0%9F%8E%93;Learning+Animation+%F0%9F%8E%A8;Open+to+Gaming+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</p>
 
-# 💫 About Me:
-- 🔭 I’m currently working on **Unity**<br>  <br>
-- 🌱 I’m currently learning **Animation** From YouTube<br><br>
-- 👯 I’m looking to collaborate on **Gaming Projects**<br><br>
-- 💬 Ask me about **Gaming, Marketing & Web Development**<br><br>
-- ⚡ Fun fact **Sharks have existed for over 400 million years**
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮%20Open%20to-Gaming%20Projects%20%26%20Collaborations-22c55e?style=for-the-badge" />
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/mtahasirajofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="https://instagram.com/taha._.siraj">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
+  </a>&nbsp;
+  <a href="mailto:mtahasiraj.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taha._.siraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtahasirajofficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtahasiraj.official@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mtahasirajofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mtahasirajofficial&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mtahasirajofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mtahasirajofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mtahasirajofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtahasirajofficial&label=Profile+Views&color=00c9ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/mtahasirajofficial?label=Followers&style=for-the-badge&color=00c9ff&labelColor=0d1117" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mtahasirajofficial&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👾 About Me
+
+```yaml
+name: Taha Siraj
+role: Ambassador @ CEGA Pakistan
+
+what_i_do:
+  - Work with Unity for game development
+  - Explore web & mobile development
+  - Represent CEGA Pakistan as an Ambassador
+
+currently:
+  - 🎮 Working with Unity
+  - 🎨 Learning Animation (self-taught via YouTube)
+
+passionate_about:
+  - 🎮 Gaming projects & interactive experiences
+  - 📈 Marketing
+  - 🌐 Web Development
+
+open_to:
+  - Collaborating on Gaming Projects
+  - Talking Gaming, Marketing & Web Development
+
+fun_fact:
+  - Sharks have existed for over 400 million years 🦈
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Core Languages**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,csharp,java,python,js,html,css&perline=7" />
+</p>
+
+**Web & Mobile**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,flutter,tailwind,bootstrap,wordpress,dotnet&perline=8" />
+</p>
+
+**Cloud & DevOps**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,netlify,kubernetes,apache&perline=6" />
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,mssql&perline=4" />
+</p>
+
+**Design & Creative**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,premiere,canva&perline=4" />
+</p>
+
+**Game Dev & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,git,github,arduino,vscode&perline=5" />
+</p>
+
+---
+
+## 🎮 Games I've Built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 REPLACE-WITH-PROJECT-NAME</h3>
+      <p><b>Unity · C#</b></p>
+      <p>REPLACE-WITH-PROJECT-DESCRIPTION</p>
+      <p>
+        <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 REPLACE-WITH-PROJECT-NAME</h3>
+      <p><b>Unity · C#</b></p>
+      <p>REPLACE-WITH-PROJECT-DESCRIPTION</p>
+      <p>
+        <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+          <img src="https://img.shields.io/badge/Source Code-View-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> ⚠️ Add your actual Unity/game projects here — replace the placeholders above with real repo names and descriptions.
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/mtahasirajofficial/REPLACE-WITH-REPO-NAME">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mtahasirajofficial&repo=REPLACE-WITH-REPO-NAME&theme=react&hide_border=true&bg_color=0d1117" />
+  </a>
+</p>
+
+---
+
+## 🏗️ What I'm Currently Working On
+
+- 🎮 Building projects and skills in **Unity**
+- 🎨 Learning **Animation** through self-study
+- 🎓 Representing **CEGA Pakistan** as an Ambassador
+
+---
+
+## 🎓 CEGA Pakistan — Ambassador Role
+
+I represent CEGA Pakistan as an Ambassador, supporting the community's mission around game development education.
+
+| What | Details |
+|------|---------|
+| 🎓 Role | Ambassador at CEGA Pakistan |
+| 🎯 Focus | Game development education & community representation |
+
+> ⚠️ Add specific numbers or achievements here (events supported, students reached, etc.) if available — concrete figures make this section far stronger.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mtahasirajofficial&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtahasirajofficial&layout=compact&theme=react&hide_border=true&bg_color=0d1117&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=mtahasirajofficial&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtahasirajofficial&theme=react&hide_border=true&background=0d1117" />
+</p>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mtahasirajofficial&theme=react-dark&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtahasirajofficial&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtahasirajofficial&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtahasirajofficial&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mtahasirajofficial&theme=github_dark&utcOffset=5" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to collaborating on **Gaming Projects** in Pakistan.
+If you're building something interesting or just want to talk gaming, marketing, or web dev — reach out.
+
+<p align="center">
+  <a href="https://linkedin.com/in/mtahasirajofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:mtahasiraj.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
