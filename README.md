@@ -30,22 +30,27 @@
 ## 👾 About Me
 
 ```yaml
+```yaml
 name: Taha Siraj
-role: Ambassador @ CEGA Pakistan
+role: Full-Stack AI Developer
 
 what_i_do:
-  - Work with Unity for game development
-  - Explore web & mobile development
-  - Represent CEGA Pakistan as an Ambassador
+  - Build production-ready full-stack web applications
+  - Develop AI-powered applications, LLM integrations & voice agents
+  - Design scalable APIs, SaaS platforms, CRMs & ERP systems
+  - Work with React, FastAPI, PHP, Python, SQL & modern web technologies
 
 currently:
-  - 🎮 Working with Unity
-  - 🎨 Learning Animation (self-taught via YouTube)
+  - 🤖 Building AI-powered products & automation systems
+  - 🌐 Developing full-stack SaaS applications
+  - 🧠 Exploring LLMs, voice agents & applied AI
+  - 🚀 Working on real-world production systems
 
 passionate_about:
-  - 🎮 Gaming projects & interactive experiences
-  - 📈 Marketing
-  - 🌐 Web Development
+  - 🤖 Applied AI & intelligent automation
+  - 🌐 Full-Stack Development
+  - 🏗️ Scalable SaaS & business systems
+  - 💡 Building products that solve real-world problems
 
 open_to:
   - Collaborating on Gaming Projects
